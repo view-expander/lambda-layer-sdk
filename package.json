@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/view-expander/lambda-layer-sdk/issues"
   },
-  "homepage": "https://github.com/view-expander/lambda-layer-sdk#readme"
+  "homepage": "https://github.com/view-expander/lambda-layer-sdk#readme",
+  "dependencies": {
+    "imgix-core-js": "^2.3.1"
+  }
 }
