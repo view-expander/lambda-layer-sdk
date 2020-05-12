@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/view-expander/lambda-layer-sdk#readme",
   "dependencies": {
+    "axios": "^0.19.2",
     "imgix-core-js": "^2.3.1"
   }
 }
