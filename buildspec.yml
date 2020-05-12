@@ -11,6 +11,5 @@ phases:
       - cd ../
 artifacts:
   files:
-    - 'node_modules/**/*'
-  base-directory: nodejs
+    - 'nodejs/**/*'
   name: sdk
