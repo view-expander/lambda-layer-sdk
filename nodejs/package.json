@@ -18,6 +18,8 @@
   "homepage": "https://github.com/view-expander/lambda-layer-sdk#readme",
   "dependencies": {
     "axios": "^0.19.2",
-    "imgix-core-js": "^2.3.1"
+    "imgix-core-js": "^2.3.1",
+    "potrace": "^2.1.6",
+    "svgo": "^1.3.2"
   }
 }
